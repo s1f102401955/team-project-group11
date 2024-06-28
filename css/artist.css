@@ -30,6 +30,6 @@
 }
 
 .kasen_red {
-    border-bottom: 2px solid red;
-    padding-bottom: 0%;
+    text-decoration: 2px underline;
+    text-decoration-color: red;
 }
