@@ -28,3 +28,8 @@
 #none {
     text-decoration: none;
 }
+
+.kasen_red {
+    text-decoration: 2px underline;
+    text-decoration-color: red;
+}
