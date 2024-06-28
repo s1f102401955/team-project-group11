@@ -28,3 +28,8 @@
 #none {
     text-decoration: none;
 }
+
+.kasen_red {
+    border-bottom: 2px solid red;
+    padding-bottom: 0%;
+}
