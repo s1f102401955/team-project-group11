@@ -33,3 +33,11 @@
     text-decoration: 2px underline;
     text-decoration-color: red;
 }
+
+.main img {
+    width: 70%;
+    margin: auto;
+    display: block;
+    border-radius: 7px;
+    margin-bottom: 15px;
+}
